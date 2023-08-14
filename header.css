@@ -1,0 +1,30 @@
+.img-movimento{
+    width: 500px;
+    border: 100px groove rgb(82, 148, 224);
+
+    
+}
+.gif-title{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.container{
+    text-align: center;
+    border:50px groove rgb(0, 245, 143)
+
+}
+    
+.container2{
+    text-align: center;
+    border:50px groove rgb(117, 0, 250)
+
+
+}
+.img-movimento{
+    width: 500px;
+    border: 100px groove rgb(96, 108, 223);
+}
